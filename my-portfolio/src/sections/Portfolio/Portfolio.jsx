@@ -1,4 +1,4 @@
-import Project from '../Project/Project'; 
+import Project from '../../components/Project/Project'; 
 import './Portfolio.css'; 
 
 const projects = [
