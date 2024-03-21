@@ -1,0 +1,51 @@
+.resume {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.resume h2, .resume h3 {
+  text-align: center;
+}
+
+.skills-list {
+  list-style-type: none; 
+  padding: 0;
+}
+
+.skills-list li {
+  background-color: #87CEEB; 
+  color: white; 
+  padding: 5px 10px;
+  margin-bottom: 10px; 
+  border-radius: 5px; 
+  display: inline-block; 
+}
+
+.experience-entry h4 {
+  margin-top: 0;
+}
+
+.date {
+  font-style: italic;
+  color: #666; 
+}
+
+.resume-download {
+  text-align: center; 
+  margin-top: 20px;
+}
+
+.resume-download-link {
+  background-color: #87CEEB; 
+  color: white; 
+  padding: 10px 15px;
+  border-radius: 5px; 
+  text-decoration: none; 
+  font-weight: bold; 
+}
+
+.resume-download-link:hover {
+  background-color: #7cbce9; 
+}

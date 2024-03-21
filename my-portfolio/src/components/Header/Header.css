@@ -1,0 +1,15 @@
+.header {
+  position: sticky;
+  top: 0;
+  background-color: #87CEEB; 
+  color: white; 
+  padding: 1rem;
+  z-index: 10; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2); 
+}
+
+/* If your Navigation is a direct child of the header you may want to style it specifically here. */
+

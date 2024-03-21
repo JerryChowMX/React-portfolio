@@ -1,0 +1,28 @@
+.footer {
+  padding: 1rem;
+  background-color: #87CEEB; 
+  color: white; 
+  text-align: center;
+  box-shadow: 0 -2px 4px 0 #00000033; 
+}
+
+.social-links {
+  margin-bottom: 1rem;
+}
+
+.footer-link {
+  margin: 0 1rem;
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+  color: #000; 
+}
+
+.copy-info {
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}

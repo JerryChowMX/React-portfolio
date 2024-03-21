@@ -1,0 +1,22 @@
+.about-me {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.about-me h2 {
+  color: #333; 
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%; 
+  margin: 20px 0;
+}
+
+.about-me p {
+  color: #666; 
+  line-height: 1.6;
+}
